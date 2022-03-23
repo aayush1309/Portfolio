@@ -203,6 +203,10 @@ header{
     background-color: var(--hover-color);
 }
 
+.btn i{
+    margin-left: 4px;
+}
+
 .home .scroll-down{
     color: var(--first-color);
     font-size: var(--normal-font-size);
